@@ -1,24 +1,22 @@
 [
     {
-        "name" : "Husein",
-        "company" : "Microsoft",
-        "github" : "husein625"
+        "name": "Husein",
+        "company": "Microsoft",
+        "github": "husein625"
     },
     {
-        "name" : "test1",
-        "company" : "Microsoft",
-        "github" : "test"
+        "name": "test1",
+        "company": "Microsoft",
+        "github": "test"
     },
     {
-        "name" : "test2",
-        "company" : "Microsoft",
-        "github" : "test"
+        "name": "test2",
+        "company": "Microsoft",
+        "github": "test"
     },
     {
-        "name" : "test3",
-        "company" : "Microsoft",
-        "github" : "test"
+        "name": "test3",
+        "company": "Microsoft",
+        "github": "test"
     }
-
-  ]
-  
+]
